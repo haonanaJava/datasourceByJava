@@ -1,0 +1,266 @@
+2020-10-12 13:43:34 DEBUG CusQueue:30 - 队列以满
+2020-10-12 15:34:31 DEBUG CusQueue:20 - 队列已满
+2020-10-12 15:34:31 INFO  CusQueue:46 - 0heyutang
+2020-10-12 15:34:31 INFO  CusQueue:46 - 1xiangtianzaijie5cm
+2020-10-12 15:34:31 INFO  CusQueue:46 - 2asdasdas
+2020-10-12 15:35:09 INFO  CusQueue:46 - 0heyutang
+2020-10-12 15:35:09 INFO  CusQueue:46 - 1xiangtianzaijie5cm
+2020-10-12 15:35:09 INFO  CusQueue:46 - 2asdasdas
+2020-10-12 15:35:09 INFO  CusQueue:46 - 3asdasd
+2020-10-12 15:38:43 INFO  CusQueue:46 - 0heyutang
+2020-10-12 15:38:43 INFO  CusQueue:46 - 1xiangtianzaijie5cm
+2020-10-12 15:38:43 INFO  CusQueue:46 - 2asdasdas
+2020-10-12 15:38:43 INFO  CusQueue:46 - 3asdasd
+2020-10-12 16:19:43 INFO  CusLinkedList:30 - Node{id=1, name='heyutang', next=Node{id=2, name='xiaoming', next=Node{id=3, name='xiaohong', next=Node{id=4, name='knight', next=Node{id=5, name='359', next=null}}}}}
+2020-10-12 16:19:43 INFO  CusLinkedList:30 - Node{id=2, name='xiaoming', next=Node{id=3, name='xiaohong', next=Node{id=4, name='knight', next=Node{id=5, name='359', next=null}}}}
+2020-10-12 16:19:43 INFO  CusLinkedList:30 - Node{id=3, name='xiaohong', next=Node{id=4, name='knight', next=Node{id=5, name='359', next=null}}}
+2020-10-12 16:19:43 INFO  CusLinkedList:30 - Node{id=4, name='knight', next=Node{id=5, name='359', next=null}}
+2020-10-12 16:21:12 INFO  CusLinkedList:30 - Node{id=1, name='heyutang'}
+2020-10-12 16:21:12 INFO  CusLinkedList:30 - Node{id=2, name='xiaoming'}
+2020-10-12 16:21:12 INFO  CusLinkedList:30 - Node{id=3, name='xiaohong'}
+2020-10-12 16:21:12 INFO  CusLinkedList:30 - Node{id=4, name='knight'}
+2020-10-12 16:23:35 INFO  CusLinkedList:30 - Node{id=1, name='heyutang'}
+2020-10-12 16:23:35 INFO  CusLinkedList:30 - Node{id=2, name='xiaoming'}
+2020-10-12 16:23:35 INFO  CusLinkedList:30 - Node{id=3, name='xiaohong'}
+2020-10-12 16:23:35 INFO  CusLinkedList:30 - Node{id=4, name='knight'}
+2020-10-12 16:23:35 INFO  CusLinkedList:30 - Node{id=5, name='369'}
+2020-10-12 19:32:35 INFO  CusLinkedList:53 - Node{id=1, name='heyutang'}
+2020-10-12 19:32:35 INFO  CusLinkedList:53 - Node{id=5, name='369'}
+2020-10-12 19:32:35 INFO  CusLinkedList:53 - Node{id=3, name='xiaohong'}
+2020-10-12 19:32:35 INFO  CusLinkedList:53 - Node{id=2, name='xiaoming'}
+2020-10-12 19:32:35 INFO  CusLinkedList:53 - Node{id=4, name='knight'}
+2020-10-12 19:34:33 INFO  CusLinkedList:53 - Node{id=1, name='heyutang'}
+2020-10-12 19:34:33 INFO  CusLinkedList:53 - Node{id=2, name='xiaoming'}
+2020-10-12 19:34:33 INFO  CusLinkedList:53 - Node{id=3, name='xiaohong'}
+2020-10-12 19:34:33 INFO  CusLinkedList:53 - Node{id=4, name='knight'}
+2020-10-12 19:34:33 INFO  CusLinkedList:53 - Node{id=5, name='369'}
+2020-10-12 19:53:51 INFO  CusLinkedList:79 - Node{id=1, name='heyutang'}
+2020-10-12 19:53:51 INFO  CusLinkedList:79 - Node{id=2, name='xiaoming'}
+2020-10-12 19:53:51 INFO  CusLinkedList:79 - Node{id=3, name='xiaohong'}
+2020-10-12 19:53:51 INFO  CusLinkedList:79 - Node{id=4, name='knight'}
+2020-10-12 19:53:51 INFO  CusLinkedList:79 - Node{id=5, name='369'}
+2020-10-12 19:53:59 INFO  CusLinkedList:79 - Node{id=1, name='heyutang'}
+2020-10-12 19:53:59 INFO  CusLinkedList:79 - Node{id=2, name='xiaoming'}
+2020-10-12 19:53:59 INFO  CusLinkedList:79 - Node{id=3, name='xiaohong'}
+2020-10-12 19:53:59 INFO  CusLinkedList:79 - Node{id=4, name='knight'}
+2020-10-12 19:53:59 INFO  CusLinkedList:79 - Node{id=5, name='369'}
+2020-10-12 20:00:40 INFO  CusLinkedList:86 - Node{id=1, name='heyutang'}
+2020-10-12 20:00:40 INFO  CusLinkedList:86 - Node{id=2, name='xiaoming'}
+2020-10-12 20:00:40 INFO  CusLinkedList:86 - Node{id=2, name='xiaolongbao'}
+2020-10-12 20:00:40 INFO  CusLinkedList:86 - Node{id=4, name='knight'}
+2020-10-12 20:00:40 INFO  CusLinkedList:86 - Node{id=5, name='369'}
+2020-10-12 20:01:54 INFO  CusLinkedList:86 - Node{id=1, name='heyutang'}
+2020-10-12 20:01:54 INFO  CusLinkedList:86 - Node{id=2, name='xiaoming'}
+2020-10-12 20:01:54 INFO  CusLinkedList:86 - Node{id=3, name='xiaolongbao'}
+2020-10-12 20:01:54 INFO  CusLinkedList:86 - Node{id=4, name='knight'}
+2020-10-12 20:01:54 INFO  CusLinkedList:86 - Node{id=5, name='369'}
+2020-10-12 20:18:14 INFO  CusLinkedList:104 - Node{id=1, name='heyutang'}
+2020-10-12 20:18:14 INFO  CusLinkedList:104 - Node{id=2, name='xiaoming'}
+2020-10-12 20:18:14 INFO  CusLinkedList:104 - Node{id=4, name='knight'}
+2020-10-12 20:18:14 INFO  CusLinkedList:104 - Node{id=5, name='369'}
+2020-10-12 20:18:29 ERROR CusLinkedList:75 - 非法参数
+2020-10-12 20:18:29 INFO  CusLinkedList:104 - Node{id=1, name='heyutang'}
+2020-10-12 20:18:29 INFO  CusLinkedList:104 - Node{id=2, name='xiaoming'}
+2020-10-12 20:18:29 INFO  CusLinkedList:104 - Node{id=3, name='xiaolongbao'}
+2020-10-12 20:18:29 INFO  CusLinkedList:104 - Node{id=4, name='knight'}
+2020-10-12 20:18:29 INFO  CusLinkedList:104 - Node{id=5, name='369'}
+2020-10-12 20:18:57 ERROR CusLinkedList:75 - 非法参数
+2020-10-12 20:18:57 INFO  CusLinkedList:104 - Node{id=1, name='heyutang'}
+2020-10-12 20:18:57 INFO  CusLinkedList:104 - Node{id=2, name='xiaoming'}
+2020-10-12 20:18:57 INFO  CusLinkedList:104 - Node{id=3, name='xiaolongbao'}
+2020-10-12 20:18:57 INFO  CusLinkedList:104 - Node{id=4, name='knight'}
+2020-10-12 20:18:57 INFO  CusLinkedList:104 - Node{id=5, name='369'}
+2020-10-13 11:31:38 INFO  CusDoublyLinkedList:79 - DoublyNode{id=1, name='knight'}
+2020-10-13 11:31:38 INFO  CusDoublyLinkedList:79 - DoublyNode{id=2, name='Tian'}
+2020-10-13 11:31:38 INFO  CusDoublyLinkedList:79 - DoublyNode{id=3, name='Doinb'}
+2020-10-13 11:31:38 INFO  CusDoublyLinkedList:79 - DoublyNode{id=4, name='TheShy'}
+2020-10-13 11:31:38 INFO  CusDoublyLinkedList:79 - DoublyNode{id=5, name='UZI'}
+2020-10-13 11:32:09 INFO  CusDoublyLinkedList:79 - DoublyNode{id=1, name='knight'}
+2020-10-13 11:32:09 INFO  CusDoublyLinkedList:79 - DoublyNode{id=2, name='Tian'}
+2020-10-13 11:32:09 INFO  CusDoublyLinkedList:79 - DoublyNode{id=4, name='TheShy'}
+2020-10-13 11:32:09 INFO  CusDoublyLinkedList:79 - DoublyNode{id=5, name='UZI'}
+2020-10-13 11:32:22 INFO  CusDoublyLinkedList:79 - DoublyNode{id=1, name='knight'}
+2020-10-13 11:32:22 INFO  CusDoublyLinkedList:79 - DoublyNode{id=2, name='Tian'}
+2020-10-13 11:32:22 INFO  CusDoublyLinkedList:79 - DoublyNode{id=3, name='Doinb'}
+2020-10-13 11:32:22 INFO  CusDoublyLinkedList:79 - DoublyNode{id=4, name='TheShy'}
+2020-10-13 11:33:05 INFO  CusDoublyLinkedList:79 - DoublyNode{id=1, name='knight'}
+2020-10-13 11:33:05 INFO  CusDoublyLinkedList:79 - DoublyNode{id=2, name='Tian'}
+2020-10-13 11:33:05 INFO  CusDoublyLinkedList:79 - DoublyNode{id=3, name='Doinb'}
+2020-10-13 11:33:05 INFO  CusDoublyLinkedList:79 - DoublyNode{id=4, name='TheBin'}
+2020-10-13 11:33:05 INFO  CusDoublyLinkedList:79 - DoublyNode{id=5, name='UZI'}
+2020-10-13 14:46:27 INFO  CircleLinkedList:45 - 1
+2020-10-13 14:46:28 INFO  CircleLinkedList:45 - 5
+2020-10-13 14:47:58 INFO  CircleLinkedList:46 - 1
+2020-10-13 14:47:58 INFO  CircleLinkedList:46 - 2
+2020-10-13 14:47:58 INFO  CircleLinkedList:46 - 3
+2020-10-13 14:47:58 INFO  CircleLinkedList:46 - 4
+2020-10-13 14:47:58 INFO  CircleLinkedList:46 - 5
+2020-10-13 17:15:39 INFO  CircleLinkedList:79 - 1
+2020-10-13 17:15:39 INFO  CircleLinkedList:79 - 2
+2020-10-13 17:15:39 INFO  CircleLinkedList:79 - 3
+2020-10-13 17:15:39 INFO  CircleLinkedList:79 - 4
+2020-10-13 17:15:39 INFO  CircleLinkedList:79 - 5
+2020-10-13 17:16:57 DEBUG CircleLinkedList:32 - haha
+2020-10-13 17:16:57 DEBUG CircleLinkedList:32 - haha
+2020-10-13 17:16:57 DEBUG CircleLinkedList:32 - haha
+2020-10-13 17:16:57 DEBUG CircleLinkedList:32 - haha
+2020-10-13 17:16:57 DEBUG CircleLinkedList:32 - haha
+2020-10-13 17:17:26 DEBUG CircleLinkedList:38 - 2
+2020-10-13 17:17:26 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:17:26 DEBUG CircleLinkedList:38 - -1
+2020-10-13 17:17:26 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:17:26 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:20:23 ERROR CircleLinkedList:65 - 2com.heyutang.datastructure.Josepfu.Node@76fb509a
+2020-10-13 17:20:23 ERROR CircleLinkedList:65 - 3com.heyutang.datastructure.Josepfu.Node@76fb509a
+2020-10-13 17:20:23 ERROR CircleLinkedList:65 - 4com.heyutang.datastructure.Josepfu.Node@76fb509a
+2020-10-13 17:20:23 ERROR CircleLinkedList:65 - 5com.heyutang.datastructure.Josepfu.Node@76fb509a
+2020-10-13 17:20:23 INFO  CircleLinkedList:81 - 1
+2020-10-13 17:20:23 INFO  CircleLinkedList:81 - 2
+2020-10-13 17:20:23 INFO  CircleLinkedList:81 - 3
+2020-10-13 17:20:23 INFO  CircleLinkedList:81 - 4
+2020-10-13 17:20:23 INFO  CircleLinkedList:81 - 5
+2020-10-13 17:20:44 ERROR CircleLinkedList:65 - 2-1
+2020-10-13 17:20:44 ERROR CircleLinkedList:65 - 3-1
+2020-10-13 17:20:44 ERROR CircleLinkedList:65 - 4-1
+2020-10-13 17:20:44 ERROR CircleLinkedList:65 - 5-1
+2020-10-13 17:20:44 INFO  CircleLinkedList:81 - 1
+2020-10-13 17:20:44 INFO  CircleLinkedList:81 - 2
+2020-10-13 17:20:44 INFO  CircleLinkedList:81 - 3
+2020-10-13 17:20:44 INFO  CircleLinkedList:81 - 4
+2020-10-13 17:20:44 INFO  CircleLinkedList:81 - 5
+2020-10-13 17:22:57 DEBUG CircleLinkedList:38 - 2
+2020-10-13 17:22:57 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:22:57 DEBUG CircleLinkedList:38 - 0
+2020-10-13 17:22:57 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:22:57 DEBUG CircleLinkedList:38 - 4
+2020-10-13 17:26:46 DEBUG CircleLinkedList:31 - 0-5
+2020-10-13 17:26:46 DEBUG CircleLinkedList:39 - 2
+2020-10-13 17:26:46 DEBUG CircleLinkedList:39 - 4
+2020-10-13 17:26:46 DEBUG CircleLinkedList:39 - 0
+2020-10-13 17:26:46 DEBUG CircleLinkedList:39 - 4
+2020-10-13 17:26:46 DEBUG CircleLinkedList:39 - 4
+2020-10-13 17:28:45 DEBUG CircleLinkedList:32 - 0-5
+2020-10-13 17:28:45 DEBUG CircleLinkedList:39 - 1-0
+2020-10-13 17:28:45 DEBUG CircleLinkedList:43 - 2-0
+2020-10-13 17:28:45 DEBUG CircleLinkedList:39 - 3-2
+2020-10-13 17:28:45 DEBUG CircleLinkedList:43 - 4-2
+2020-10-13 17:28:45 DEBUG CircleLinkedList:39 - 5-4
+2020-10-13 17:28:45 DEBUG CircleLinkedList:43 - 0-4
+2020-10-13 17:28:45 DEBUG CircleLinkedList:39 - 2-0
+2020-10-13 17:28:45 DEBUG CircleLinkedList:43 - 4-0
+2020-10-13 17:28:45 DEBUG CircleLinkedList:39 - 0-4
+2020-10-13 17:28:45 DEBUG CircleLinkedList:43 - 4-4
+2020-10-13 17:31:59 DEBUG CircleLinkedList:32 - 移动到起始位置0-5
+2020-10-13 17:31:59 DEBUG CircleLinkedList:39 - 淘汰者1-0
+2020-10-13 17:31:59 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后2-0
+2020-10-13 17:31:59 DEBUG CircleLinkedList:39 - 淘汰者3-2
+2020-10-13 17:31:59 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4-2
+2020-10-13 17:31:59 DEBUG CircleLinkedList:39 - 淘汰者5-4
+2020-10-13 17:31:59 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后0-4
+2020-10-13 17:31:59 DEBUG CircleLinkedList:39 - 淘汰者2-0
+2020-10-13 17:31:59 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4-0
+2020-10-13 17:31:59 DEBUG CircleLinkedList:39 - 淘汰者0-4
+2020-10-13 17:31:59 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4-4
+2020-10-13 17:31:59 DEBUG CircleLinkedList:45 - 最后的赢家4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:32 - 移动到起始位置0
+2020-10-13 17:38:24 DEBUG CircleLinkedList:39 - 淘汰者1-0
+2020-10-13 17:38:24 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后2
+2020-10-13 17:38:24 DEBUG CircleLinkedList:39 - 淘汰者3-2
+2020-10-13 17:38:24 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:39 - 淘汰者5-4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后0
+2020-10-13 17:38:24 DEBUG CircleLinkedList:39 - 淘汰者2-0
+2020-10-13 17:38:24 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:39 - 淘汰者0-4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:24 DEBUG CircleLinkedList:45 - 最后的赢家4
+2020-10-13 17:38:40 DEBUG CircleLinkedList:39 - 淘汰者1
+2020-10-13 17:38:40 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后2
+2020-10-13 17:38:40 DEBUG CircleLinkedList:39 - 淘汰者3
+2020-10-13 17:38:40 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:40 DEBUG CircleLinkedList:39 - 淘汰者5
+2020-10-13 17:38:40 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后0
+2020-10-13 17:38:40 DEBUG CircleLinkedList:39 - 淘汰者2
+2020-10-13 17:38:40 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:40 DEBUG CircleLinkedList:39 - 淘汰者0
+2020-10-13 17:38:40 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:38:40 DEBUG CircleLinkedList:45 - 最后的赢家4
+2020-10-13 17:39:42 DEBUG CircleLinkedList:39 - 淘汰者2
+2020-10-13 17:39:42 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后3
+2020-10-13 17:39:42 DEBUG CircleLinkedList:39 - 淘汰者4
+2020-10-13 17:39:42 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后5
+2020-10-13 17:39:42 DEBUG CircleLinkedList:39 - 淘汰者0
+2020-10-13 17:39:42 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后1
+2020-10-13 17:39:42 DEBUG CircleLinkedList:39 - 淘汰者3
+2020-10-13 17:39:42 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后5
+2020-10-13 17:39:42 DEBUG CircleLinkedList:39 - 淘汰者1
+2020-10-13 17:39:42 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后5
+2020-10-13 17:39:42 DEBUG CircleLinkedList:45 - 最后的赢家5
+2020-10-13 17:42:44 DEBUG CircleLinkedList:39 - 淘汰者3
+2020-10-13 17:42:44 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:42:44 DEBUG CircleLinkedList:39 - 淘汰者5
+2020-10-13 17:42:44 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后1
+2020-10-13 17:42:44 DEBUG CircleLinkedList:39 - 淘汰者2
+2020-10-13 17:42:44 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:42:44 DEBUG CircleLinkedList:39 - 淘汰者1
+2020-10-13 17:42:44 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后4
+2020-10-13 17:42:44 DEBUG CircleLinkedList:45 - 最后的赢家4
+2020-10-13 17:42:57 INFO  CircleLinkedList:86 - 2
+2020-10-13 17:42:57 INFO  CircleLinkedList:86 - 3
+2020-10-13 17:42:57 INFO  CircleLinkedList:86 - 4
+2020-10-13 17:42:57 INFO  CircleLinkedList:86 - 5
+2020-10-13 17:43:32 INFO  CircleLinkedList:86 - 1
+2020-10-13 17:43:32 INFO  CircleLinkedList:86 - 2
+2020-10-13 17:43:32 INFO  CircleLinkedList:86 - 3
+2020-10-13 17:43:32 INFO  CircleLinkedList:86 - 4
+2020-10-13 17:45:23 INFO  CircleLinkedList:86 - 1
+2020-10-13 17:46:45 INFO  CircleLinkedList:85 - 1
+2020-10-13 17:46:45 INFO  CircleLinkedList:87 - 2
+2020-10-13 17:46:45 INFO  CircleLinkedList:87 - 3
+2020-10-13 17:46:45 INFO  CircleLinkedList:87 - 4
+2020-10-13 17:46:45 INFO  CircleLinkedList:87 - 5
+2020-10-13 17:47:23 DEBUG CircleLinkedList:39 - 淘汰者2
+2020-10-13 17:47:23 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后3
+2020-10-13 17:47:23 DEBUG CircleLinkedList:39 - 淘汰者4
+2020-10-13 17:47:23 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后5
+2020-10-13 17:47:23 DEBUG CircleLinkedList:39 - 淘汰者1
+2020-10-13 17:47:23 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后3
+2020-10-13 17:47:23 DEBUG CircleLinkedList:39 - 淘汰者5
+2020-10-13 17:47:23 DEBUG CircleLinkedList:43 - 淘汰者被淘汰后3
+2020-10-13 17:47:23 DEBUG CircleLinkedList:45 - 最后的赢家3
+2020-10-13 17:47:23 INFO  CircleLinkedList:85 - 3
+2020-10-13 17:48:01 DEBUG CircleLinkedList:37 - 淘汰者2
+2020-10-13 17:48:01 DEBUG CircleLinkedList:37 - 淘汰者4
+2020-10-13 17:48:01 DEBUG CircleLinkedList:37 - 淘汰者1
+2020-10-13 17:48:01 DEBUG CircleLinkedList:37 - 淘汰者5
+2020-10-13 17:48:01 DEBUG CircleLinkedList:42 - 最后的赢家3
+2020-10-13 17:48:01 INFO  CircleLinkedList:82 - 3
+2020-10-14 12:02:01 ERROR CusStack:28 - stack 已满
+2020-10-14 18:38:40 INFO  Calculate:62 - 最后的计算结果是4
+2020-10-14 18:39:23 INFO  Calculate:62 - 最后的计算结果是15
+2020-10-14 18:39:23 ERROR CusStack:37 - stack 为空
+2020-10-14 18:39:57 INFO  Calculate:61 - 最后的计算结果是-7
+2020-10-14 18:43:55 DEBUG Calculate:48 - 1
+2020-10-14 18:43:56 DEBUG Calculate:48 - 0
+2020-10-14 18:43:56 DEBUG Calculate:48 - 1
+2020-10-14 18:43:56 DEBUG Calculate:48 - 0
+2020-10-14 18:43:56 DEBUG Calculate:48 - 2
+2020-10-14 18:43:56 INFO  Calculate:62 - 最后的计算结果是2
+2020-10-14 18:44:20 DEBUG Calculate:48 - 3
+2020-10-14 18:44:20 DEBUG Calculate:48 - 3
+2020-10-14 18:44:20 DEBUG Calculate:48 - 1
+2020-10-14 18:44:20 INFO  Calculate:62 - 最后的计算结果是10
+2020-10-14 18:44:58 INFO  Calculate:61 - 最后的计算结果是-7
+2020-10-14 18:51:14 INFO  Calculate:61 - 最后的计算结果是-8
+2020-10-14 18:51:29 INFO  Calculate:61 - 最后的计算结果是-25
+2020-10-14 18:52:43 INFO  Calculate:61 - 最后的计算结果是-8
+2020-10-14 18:56:17 INFO  Calculate:61 - 最后的计算结果是-8
+2020-10-14 18:57:26 INFO  Calculate:61 - 最后的计算结果是14
+2020-10-14 19:17:36 INFO  Calculate:73 - 最后的计算结果是0
+2020-10-14 19:17:53 INFO  Calculate:73 - 最后的计算结果是20
+2020-10-14 19:21:56 INFO  Calculate:73 - 最后的计算结果是26
+2020-10-14 19:23:55 INFO  Calculate:12 - 请输入计算表达式:
+2020-10-14 19:26:48 INFO  Calculate:73 - 最后的计算结果是-32
+2020-10-14 19:30:56 INFO  Calculate:12 - 请输入计算表达式:
+2020-10-14 19:30:58 INFO  Calculate:73 - 最后的计算结果是28
+2020-10-15 17:37:34 INFO  EightQueens:20 - 总共的解法有：92
